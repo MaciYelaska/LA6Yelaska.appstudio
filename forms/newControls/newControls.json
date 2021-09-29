@@ -25,7 +25,7 @@
         "forms",
         "newControls",
         "Elements",
-        "Checkbox2.json"
+        "checkbox2.json"
       ]
     },
     {
@@ -44,6 +44,15 @@
         "newControls",
         "Elements",
         "Select1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Label1.json"
       ]
     }
   ],
